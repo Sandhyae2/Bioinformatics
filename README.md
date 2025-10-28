@@ -1,1 +1,1 @@
-# Bioinfo
+# Bioinformatics
